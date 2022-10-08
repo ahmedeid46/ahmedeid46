@@ -5,19 +5,20 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/ahmed3id2001" target="blank"><img src="https://img.shields.io/twitter/follow/ahmed3id2001?logo=twitter&style=for-the-badge" alt="ahmed3id2001" /></a> </p>
+![GitHub followers](https://img.shields.io/github/followers/ahmedeid46?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/ahmed3id2001?style=social)
 
-- 🔭 I’m currently working on **vendor**
+- 🔭 I’m currently working on **WAQTY**
 
 - 🌱 I’m currently learning **AI and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [http://ahmedeid.ml](http://ahmedeid.ml)
+- 👨‍💻 All of my projects are available at [https://ahmedmeid.tk](https://ahmedmeid.tk)
 
 - 💬 Ask me about **Laravel and Backend**
 
 - 📫 How to reach me **ahmed.m.eid.2001@gmail.com**
 
-- 📄 Know about my experiences [http://ahmedeid.ml](http://ahmedeid.ml)
+- 📄 Know about my experiences [https://ahmedmeid.tk](https://ahmedmeid.tk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,8 +39,15 @@
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ahmedeid46&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedeid46&theme=radical&hide_border=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedeid46&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/ahmedeid46"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedeid46&custom_title=ahmedeid46's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ahmedeid46&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
